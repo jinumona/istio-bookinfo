@@ -10,3 +10,9 @@ The Bookinfo application is broken into four separate microservices:
 Version v1 doesn’t call the ratings service.
 Version v2 calls the ratings service, and displays each rating as 1 to 5 black stars.
 Version v3 calls the ratings service, and displays each rating as 1 to 5 red stars.
+
+## Reference
+```bash
+https://istio.io/latest/docs/examples/bookinfo/
+https://istio.io/latest/docs/tasks/traffic-management/request-routing/
+```
